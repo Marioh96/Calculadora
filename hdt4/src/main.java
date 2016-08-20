@@ -65,7 +65,7 @@ public class main {
             
             opc = (int)teclado.nextDouble();
             
-            //resp = calc.evalList(linea, opc);
+            resp = calc.evalList(linea, opc);
         } else {
             resp = calc.evalStack(linea, opc);
         }

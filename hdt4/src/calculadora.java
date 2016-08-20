@@ -67,7 +67,7 @@ public class calculadora {
      * @param String 's' y un int 'opc'
      * @return resultado en double
      */
-    /*
+    
     public double evalList(String s, int opc) {
         List<Double> stack = null;
         switch (opc) {
@@ -111,5 +111,4 @@ public class calculadora {
         }
         return stack.removeLast();
     }
-    */
 }
